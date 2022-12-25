@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Atul_Rai
-- 👀 I’m interested in Bulding frontend projects like clones.
+- 👀 I’m interested in Building frontend projects like clones.
 - 🌱 I’m currently learning react and nodeJs
 - 💞️ I’m looking to collaborate on Full stack projects.
 - 📫 How to reach me -atulrai056@gmail.com 
